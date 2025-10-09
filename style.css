@@ -1,0 +1,32 @@
+body {
+    background-color: #ADD8E6;
+    text-align: center;
+}
+
+.main {
+    background-color: aliceblue;
+    width: 650px;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+.main-titulo {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+}
+
+.main-titulo-2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.capa {
+    width: 150px;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.paragrafo-azul {
+    color: blue;
+}
